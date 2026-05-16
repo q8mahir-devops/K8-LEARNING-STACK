@@ -385,3 +385,5 @@ This is a personal learning lab. Fork it, break things, fix them, and learn.
 ## 📄 License
 
 MIT — use freely for learning and certification preparation.
+=======
+# K8-LEARNING-STACK
