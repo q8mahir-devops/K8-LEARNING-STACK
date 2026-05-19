@@ -1,0 +1,78 @@
+# ========================
+# Maven
+# ========================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# ========================
+# Java
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# ========================
+# IDE - IntelliJ IDEA
+# ========================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ========================
+# IDE - VS Code
+# ========================
+.vscode/
+*.code-workspace
+
+# ========================
+# IDE - Eclipse
+# ========================
+.eclipse/
+.classpath
+.project
+.settings/
+bin/
+
+# ========================
+# OS Files
+# ========================
+.DS_Store           # Mac
+Thumbs.db           # Windows
+desktop.ini         # Windows
+
+# ========================
+# Logs
+# ========================
+*.log
+logs/
+spring.log
+
+# ========================
+# Environment & Secrets
+# ========================
+.env
+*.env
+application-local.properties
+application-local.yml
+secrets.yml
+secrets.properties
+
+# ========================
+# Docker
+# ========================
+.dockerignore
+
+# ========================
+# Kubernetes
+# ========================
+kubeconfig
+*.kubeconfig
