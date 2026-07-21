@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: hello-world-config
+data:
+  APP_NAME: "hello-world-springboot"
+  APP_PORT: "8080"
+  APP_ENV: "development"
